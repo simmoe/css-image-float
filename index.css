@@ -1,0 +1,14 @@
+figure{
+    float:right;
+    padding:20px;
+    background-color:gray;
+    margin:10px;
+}
+
+img{
+    width:200px;
+}
+
+/* p{
+    columns: 200px 3;
+} */
